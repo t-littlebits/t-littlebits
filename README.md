@@ -1,6 +1,8 @@
 ## Hi there 👋
 I really need to make this look good some time soon
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wow+this+is+cool;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!--
